@@ -13,7 +13,7 @@ ____
 ___
 <a name="dates"></a>
 ## Foreacast dates
-Forecasts are **due every Monday at noon**. You will be issuing two forecasts the *One Week Forecast* will cover the period from the Sunday to Saturday starting the day before the forecast is due and the *Two Week Forecast* will cover the following Sunday to Saturday period. In both cases you can only use streamflow observations up to the Saturday before you submit (i.e. up to the start of the forecast period).  The table below summarizes the relevant dates for every week of the semester.
+Forecasts are **due every Monday at noon**. You will be issuing two forecasts the *One Week Forecast* will cover the period from the Sunday to Saturday starting the day after the forecast is due and the *Two Week Forecast* will cover the following Sunday to Saturday period. In both cases you can only use streamflow observations up to the Saturday before you submit (i.e. up to the start of the forecast period).  The table below summarizes the relevant dates for every week of the semester.
 
 ![](assets/README-6ee8c5d0.png)
 
@@ -78,17 +78,4 @@ Each week one or two people will be assigned the job of 'Evaluator'. Your job de
  ___
  <a name="evaluatorlist"></a>
  # Evaluator Assignments
- 1. September 7: Laura
- 2. September 14: Laura
- 3. September 21: Xueyan
- 4. September 28: Gigi
- 5. October 5: Andrew
- 6. October 12: David
- 7. October 19: Monique
- 8. October 26: Jason
- 9. November 2: Sierra
- 10. November 9: Kevin 
- 11. November 16: Xiang
- 12. November 23: Xingyu
- 13. November 30: Stephanie
- 14. December 7: Connal & Josh
+ ## TO DO!!!
